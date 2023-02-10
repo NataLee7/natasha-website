@@ -1,5 +1,47 @@
 body {
-    background: rgb(155, 174, 205);
+    background: rgb(223, 228, 236);
     padding: 3em;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins';
+}
+
+h1,
+h2,
+h3{
+    margin:0;
+}
+
+h1 {
+font-family: 'Proxima Nova';
+font-weight: bold;
+font-size: 5em;
+line-height: 2em;
+}
+
+h2 {
+font-family: 'Proxima Nova';
+font-weight: bold;
+font-size: 2em;
+line-height: 1.8em;
+}
+
+h3 {
+font-family: 'Poppins';
+font-weight: normal;
+font-size: 1.3em;
+line-height: 1.8em;
+padding-bottom: 0.7em;
+}
+
+p {
+font-family: 'Poppins';
+font-weight: thin;
+font-size: 1em;
+line-height: 1.7em;
+}
+
+li {
+font-family: 'Poppins';
+font-weight: thin;
+font-size: 1em;
+line-height: 1.7em;
 }
